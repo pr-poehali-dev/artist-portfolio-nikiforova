@@ -27,6 +27,26 @@ export default function Index() {
       id: 3,
       url: 'https://cdn.poehali.dev/projects/69cf5579-51c4-4f7a-8e02-fd1313710d1b/files/52d0b09e-960a-4022-9c52-29a89a44680f.jpg',
       title: 'Портрет'
+    },
+    {
+      id: 4,
+      url: 'https://cdn.poehali.dev/files/22b8e14a-263a-4e8c-bcf7-577c10c275eb.jpg',
+      title: 'Элегантность'
+    },
+    {
+      id: 5,
+      url: 'https://cdn.poehali.dev/files/036c2584-1594-4202-bb04-c476f065fb2c.jpg',
+      title: 'Голубые глаза'
+    },
+    {
+      id: 6,
+      url: 'https://cdn.poehali.dev/files/a16d8431-7171-4154-8a5f-6ad80b5c39d7.jpg',
+      title: 'Сияние'
+    },
+    {
+      id: 7,
+      url: 'https://cdn.poehali.dev/files/047f220a-c880-4cec-ba3d-6f4e45dfcbbb.jpg',
+      title: 'Разноцветная улыбка'
     }
   ];
 
