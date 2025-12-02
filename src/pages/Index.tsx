@@ -15,18 +15,18 @@ export default function Index() {
   const galleryImages = [
     {
       id: 1,
-      url: 'https://cdn.poehali.dev/projects/69cf5579-51c4-4f7a-8e02-fd1313710d1b/files/59489c16-cf70-46b0-a2b0-7a253c5783d5.jpg',
-      title: 'Мечтательность'
+      url: 'https://cdn.poehali.dev/files/cb002711-1529-435d-91ae-0908f16f4434.jpg',
+      title: 'Тёмные розы'
     },
     {
       id: 2,
-      url: 'https://cdn.poehali.dev/projects/69cf5579-51c4-4f7a-8e02-fd1313710d1b/files/65f2cb0b-8e28-47c9-b9af-3ffc3ba6f059.jpg',
-      title: 'Сакура'
+      url: 'https://cdn.poehali.dev/files/2ae91af5-9de6-4c01-adf0-0cdbe994a17b.jpg',
+      title: 'Кошачьи ушки'
     },
     {
       id: 3,
-      url: 'https://cdn.poehali.dev/projects/69cf5579-51c4-4f7a-8e02-fd1313710d1b/files/52d0b09e-960a-4022-9c52-29a89a44680f.jpg',
-      title: 'Портрет'
+      url: 'https://cdn.poehali.dev/files/56560fc7-4584-459c-a180-5c3e5cb81fbf.jpg',
+      title: 'Задумчивость'
     },
     {
       id: 4,
