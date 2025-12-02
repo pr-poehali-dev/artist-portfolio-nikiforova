@@ -84,8 +84,12 @@ export default function Index() {
       >
         <div className="text-center animate-fade-in-up">
           <div className="mb-8 animate-float">
-            <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-br from-primary to-accent flex items-center justify-center text-6xl">
-              🎨
+            <div className="w-40 h-40 md:w-48 md:h-48 mx-auto rounded-full overflow-hidden border-4 border-primary/20 shadow-2xl">
+              <img 
+                src="https://cdn.poehali.dev/files/4076f378-7a44-4612-8ef7-1602f2d89e80.jpg" 
+                alt="Анна Никифорова"
+                className="w-full h-full object-cover"
+              />
             </div>
           </div>
           <h2 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
